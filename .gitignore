@@ -1,4 +1,7 @@
+.venv
 .DS_Store
+.ipynb_checkpoints/
+node_modules/
 nsynth/audio_input
 nsynth/output_grids
 nsynth/working_dir
